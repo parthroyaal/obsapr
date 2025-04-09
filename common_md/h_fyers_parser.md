@@ -102,6 +102,8 @@ console.log("candlestickData", candlestickData);
 
 ````
 
+[h_papapar1_ticks](h_papapar1_ticks.md)
+
 # Parser Using  Lib PapaParse :
 
 ````html
@@ -192,6 +194,8 @@ console.log("candlestickData", candlestickData);
 </html>
 
 ````
+
+[h_papapar2_ticks](h_papapar2_ticks.md)
 
 [h_lwchartWithIndi](h_lwchartWithIndi.md)
 

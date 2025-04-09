@@ -2,7 +2,7 @@
 
 [h_fyersReplay](h_fyersReplay.md)
 
-[h_specchat](h_specchat.md)
+[h_specStory](h_specStory.md)
 
 # Chart init sequence
 
@@ -410,7 +410,7 @@ resolveSymbol: function(symbolName, onSymbolResolvedCallback, onResolveErrorCall
               minmov: 1,
               pricescale: 100,
               has_intraday: true,
-              has_seconds: true,  // Indicathttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryhttps://cdn.jsdelivr.net/gh/parth-royale/cdn@tree/main/charting_libraryes that seconds-level data is supported.
+              has_seconds: true,  
               supported_resolutions: ["5S", "1", "5", "15", "30", "60", "D"]
             });
           }, 0);

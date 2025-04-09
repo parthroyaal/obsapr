@@ -1,8 +1,11 @@
+[h_Home](h_Home.md)
+
 [h_deploy](h_deploy.md)
 
 [h_termux-setup](h_termux-setup.md)
 
 [h_lwchart](h_lwchart.md)
+
 [h_advchart](h_advchart.md)
 
 # Service1
@@ -11,6 +14,18 @@
 
 [h_fyers_parser](h_fyers_parser.md)
 
+## lwChart
+
+### \### Chart init sequence
+
+*h_initseq_232*
+
+## advChart
+
+### \### Chart init sequence
+
+[h_initseq_233](h_initseq_233.md)
+
 ## ClientSide
 
 [h_advanceCharts](h_advanceCharts.md)
@@ -18,10 +33,13 @@
 ## ServerSide
 
 [h_service1_live](h_service1_live.md)
+
 [h_service1_bk](h_service1_bk.md)
 
 [h_service1_tst](h_service1_tst.md)
+
 [h_service1_tst01](h_service1_tst01.md)
+
 [h_service1_tst02](h_service1_tst02.md)
 
 # Application0
@@ -44,7 +62,7 @@ Gitlab: a@sk
 
 [h_ap](h_ap.md)
 
-## Common
+## Common Deploy
 
 runtime.txt
 
